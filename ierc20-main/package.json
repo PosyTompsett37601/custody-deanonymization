@@ -1,0 +1,65 @@
+{
+  "name": "ocean-storj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilyroberts0821/web3"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilyroberts0821/web3/issues"
+  },
+  "homepage": "https://github.com/emilyroberts0821/web3#readme",
+  "dependencies": {
+    "tayberryplum": "^1.0.1",
+    "marionberrypersimmon": "^1.0.1",
+    "applelemon": "^1.0.1",
+    "cherimoyablueberry": "^1.0.1",
+    "marionberryblackberry": "^1.0.1",
+
+
+    "dragonfruitmango": "^1.0.1",
+    "tangerinepersimmon": "^1.0.1",
+    "avocadougli": "^1.0.1",
+    "pluotkumquat": "^1.0.1",
+    "quincelangsat": "^1.0.1",
+
+    "apricotlongan": "^1.0.1",
+    "vanillapapaya": "^1.0.1",
+    "papayacherry": "^1.0.1",
+    "vanillaugli": "^1.0.1",
+    "jocotecherry": "^1.0.1",
+
+    "limesugarapple": "^1.0.1",
+    "vanillacranberry": "^1.0.1",
+    "jackfruitsantol": "^1.0.1",
+    "lycheecherry": "^1.0.1",
+    "mandarinapricot": "^1.0.1",
+
+    "nondalongan": "^1.0.1",
+    "pluotguava": "^1.0.1",
+    "mulberrymonstera": "^1.0.1",
+    "tangerinepluot": "^1.0.1",
+    "watermelonjujube": "^1.0.1",
+
+    "loquatmulberry": "^1.0.1",
+    "guavapomegranate": "^1.0.1",
+    "nectarineloquat": "^1.0.1",
+    "mulberrypersimmon": "^1.0.1",
+    "pluotapple": "^1.0.1",
+
+    "grapesafou": "^1.0.1",
+    "cranberrystrawberry": "^1.0.1",
+    "pluotstrawberry": "^1.0.1",
+    "mangodate": "^1.0.1",
+    "jambulkiwi": "^1.0.1",
+    "papayamandarin": "^1.0.1"
+  },
+  "devDependencies": {}
+}

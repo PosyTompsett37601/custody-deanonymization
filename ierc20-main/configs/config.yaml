@@ -1,0 +1,5 @@
+Config :
+  EthRPC: https://goerli.infura.io/v3/465ff788566044848ba2eae2474718d
+  PrivateKey:
+  ContractAddress:
+  WorkerCount: 10
